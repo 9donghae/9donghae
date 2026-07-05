@@ -1,5 +1,5 @@
 # Koo Dong Hae
-
+#### 전자공학과
 ## 💻  Projects
 ### ◆ [🤖 TurtleBot3 YOLO OCR Vision Control](https://github.com/9donghae/MiniProject-TurtleBot_AI_Vision)
 
